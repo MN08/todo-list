@@ -1,0 +1,6 @@
+#dont over lint node_modules
+node_modules
+#dont over lint build output 
+dist
+#dont over lint nyc coverage output
+coverage
